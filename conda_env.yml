@@ -1,0 +1,33 @@
+# General Python packges for data reading, processing, and analysis
+#
+# To install the enviroment to Conda type:
+# conda env install -f conda_env.yml
+
+name: base
+
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - python
+  # Plotting
+  - matplotlib
+  - plotly
+  - seaborn
+  # Data manipulation
+  - numpy
+  - scipy
+  - pandas
+  # Reder figures and compile videos
+  - reportlab
+  - imagemagick
+  - ffmpeg
+  - ghostscript
+  # Misc
+  - pep8
+  - autopep8
+  - pip
+  - pyyaml
+  - yaml
+  - python-dotenv

@@ -1,0 +1,12 @@
+# Dirs
+tmp
+scratch
+logs
+data
+
+# Python
+*.pyc
+*.mod
+
+# Preserve directories
+!.gitkeep
