@@ -45,9 +45,10 @@ End with an example of getting some data out of the system or using. It is also 
 
 List references with links to publications this analysis was used for.
 
- __The genetic basis of natural variation in Caenorhabditis elegans telomere length__<br />
-Cook DE, Zdraljevic S, Tanny RE, Seo B, Riccardi DD, Noble LM, Rockman MV, Alkema MJ, Braendle C, Kammenga JE, Wang J, Kruglyak L, Fe ́ lix MA, Lee J, Andersen EC. <br />
-2016. Genetics 204:371–383. DOI: https://doi.org/10.1534/genetics.116. 191148, PMID: 27449056
+- Koldaeva, A., Tsai, H. F., Shen, A. Q., & Pigolotti, S. (2022). Population genetics in microchannels. Proceedings of the National Academy of Sciences, 119(12), e2120821119.
+https://doi.org/10.1073/pnas.2120821119
+- Tsai, H. F., Carlson, D. W., Koldaeva, A., Pigolotti, S., & Shen, A. Q. (2022). Optimization and Fabrication of Multi-Level Microchannels for Long-Term Imaging of Bacterial Growth and Expansion. Micromachines, 13(4), 576.
+https://doi.org/10.3390/mi13040576
 
 ## Contributing
 
